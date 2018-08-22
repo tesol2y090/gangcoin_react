@@ -1,0 +1,28 @@
+[
+    {
+        productId: 1,
+        productName: "GAG/BTC",
+        price: "0.342",
+        unit: "GAG"
+    },{
+        productId: 2,
+        productName: "GAG/ETH",
+        price: "0.643",
+        unit: "GAG"
+    },{
+        productId: 3,
+        productName: "GAG/EOS",
+        price: "0.123",
+        unit: "GAG"
+    },{
+        productId: 4,
+        productName: "GAG/XTZ",
+        price: "0.053",
+        unit: "GAG"
+    },{
+        productId: 5,
+        productName: "GAG/OMG",
+        price: "0.032",
+        unit: "GAG"
+    }
+]

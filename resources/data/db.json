@@ -1,0 +1,45 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "productId": "0001",
+      "productName": "GAG/BTC",
+      "price": 0.342,
+      "unit": "GAG",
+      "thumbnail": "/images/btc_logo.png"
+    },
+    {
+      "id": 2,
+      "productId": "0002",
+      "productName": "GAG/ETH",
+      "price": 0.643,
+      "unit": "GAG",
+      "thumbnail": "/images/eth_logo.png"
+    },
+    {
+      "id": 3,
+      "productId": "0003",
+      "productName": "GAG/EOS",
+      "price": 0.742,
+      "unit": "GAG",
+      "thumbnail": "/images/eos_logo.png"
+    },
+    {
+      "id": 4,
+      "productId": "0004",
+      "productName": "GAG/XTZ",
+      "price": 0.458,
+      "unit": "GAG",
+      "thumbnail": "/images/xtz_logo.png"
+    },
+    {
+      "id": 5,
+      "productId": "0005",
+      "productName": "GAG/OMG",
+      "price": 0.054,
+      "unit": "GAG",
+      "thumbnail": "/images/omg_logo.png"
+    }
+  ],
+  "orders": []
+}
