@@ -33,6 +33,8 @@ class Header extends Component {
                             <li className="list-inline-item title text-success"><Link to="/products">Product</Link></li>
                             <li className="list-inline-item title">|</li>
                             <li className="list-inline-item title text-success"><Link to="/about">About Us</Link></li>
+                            <li className="list-inline-item title">|</li>
+                            <li className="list-inline-item title text-success"><Link to="/ICO">About Us</Link></li>
                         </ul>
                     </div>
                 </div>
